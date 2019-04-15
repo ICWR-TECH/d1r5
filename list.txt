@@ -4,6 +4,10 @@ cpanel
 .well-known
 wp-admin
 admin/
+adminweb/
+web/
+system/
+admin_system/
 admin/index.php
 admin/login.php
 js/
