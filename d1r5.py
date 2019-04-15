@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # D1r5 - Dir & Sensitive File Scanner
 # Coded By Afrizal F.A - ICWR-TECH
+# Copyright (c)2019 - Afrizal F.A ( ICWR-TECH )
 # Write Code ( Python )
 import requests, sys
 
